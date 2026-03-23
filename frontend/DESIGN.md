@@ -158,3 +158,7 @@ Before shipping UI changes:
 3. Provides state-specific labels for win/loss/pending/timeout.
 4. Supports keyboard and reduced-motion users.
 5. Includes screenshot or story/example for changed component behavior.
+
+## 11. Landing Screen Specs
+
+High-fidelity landing compositions are documented in [`frontend/LANDING_SCREENS.md`](/home/uche-ofatu/Desktop/Tossd/frontend/LANDING_SCREENS.md). Use this when building desktop/mobile marketing screens with fairness and game-flow sections.
